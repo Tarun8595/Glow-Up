@@ -3,8 +3,8 @@ import { Button } from "@/components/ui/button"
 import Image from "next/image"
 
 const instagramPosts = [
-  "https://scontent-dfw5-2.cdninstagram.com/v/t51.29350-15/391447465_2049401978749431_4439736819479264537_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=1-7&_nc_sid=18de74&_nc_ohc=8axSYhtn8pEQ7kNvwGEyakj&_nc_oc=AdmIMws-HnEGSOJzXwgAtXDkmdVu0srXyU23sZYFq2B92BreQ6QQaWyn1UtIBc4Qa-qcm4Gl8ct2TiHlarRcVIHl&_nc_zt=23&_nc_ht=scontent-dfw5-2.cdninstagram.com&edm=APCawUEEAAAA&_nc_gid=ebkggt8o018H7AZlMRsimw&oh=00_AfVyVTnr3y4GwiUivjzhU8g0ODLnqQJaouOvHunTSDA4TQ&oe=68A679FE",
-  "https://scontent-dfw5-3.cdninstagram.com/v/t51.29350-15/391343971_232630596207095_5836359012798331309_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=1-7&_nc_sid=18de74&_nc_ohc=jv7oR-VNRicQ7kNvwHQWQOg&_nc_oc=AdlUzjxr_5Gz0QuNFtfVEvLyzPnPZl1KEjuV-mpgZU4FLFXfMuCdFT7pvXZzr5yVlXlL8Abj4Qw6XFZ69HQNqzV-&_nc_zt=23&_nc_ht=scontent-dfw5-3.cdninstagram.com&edm=APCawUEEAAAA&_nc_gid=ebkggt8o018H7AZlMRsimw&oh=00_AfUiZBN3ZmoFuUPh_qccjRH-bc1C5C4rj8DAX0MLZec_1A&oe=68A67739",
+  "https://i.pinimg.com/736x/60/30/68/6030685e3463acbe9e909bba27f5adf5.jpg",
+  "https://i.pinimg.com/736x/7f/76/d6/7f76d66a6dd9a046cfe226f44cbcc9bd.jpg",
   "https://i.pinimg.com/736x/cb/3b/56/cb3b56d24f8f1274a63d2c6ac728e02f.jpg",
   "https://i.pinimg.com/736x/07/59/f7/0759f77d2d662b176b7051b6eeac6651.jpg",
 ]
